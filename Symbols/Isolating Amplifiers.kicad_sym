@@ -2,31 +2,31 @@
 	(version 20241209)
 	(generator "kicad_symbol_editor")
 	(generator_version "9.0")
-	(symbol "K104K10X7RF5UH5"
+	(symbol "AMC1351DWVR"
 		(pin_names
 			(offset 0.254)
 		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "C"
-			(at 3.81 3.81 0)
+		(property "Reference" "U"
+			(at 0 9.906 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
 			)
 		)
-		(property "Value" "K104K10X7RF5UH5"
-			(at 3.81 -3.81 0)
+		(property "Value" "AMC1351DWVR"
+			(at 0 7.366 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
 			)
 		)
-		(property "Footprint" "K104K10X7RF5UH5_VIS"
-			(at 0 0 0)
+		(property "Footprint" "SOIC8_DWV_TEX"
+			(at 0 -16.764 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35,8 +35,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "K104K10X7RF5UH5"
-			(at 0 0 0)
+		(property "Datasheet" "AMC1351DWVR"
+			(at 0.498 -14.478 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46,7 +46,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at -13.98 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -62,7 +62,7 @@
 				)
 			)
 		)
-		(property "ki_keywords" "K104K10X7RF5UH5"
+		(property "ki_keywords" "AMC1351DWVR"
 			(at 0 0 0)
 			(effects
 				(font
@@ -71,7 +71,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "K104K10X7RF5UH5_VIS"
+		(property "ki_fp_filters" "SOIC8_DWV_TEX SOIC8_DWV_TEX-M SOIC8_DWV_TEX-L"
 			(at 0 0 0)
 			(effects
 				(font
@@ -80,13 +80,13 @@
 				(hide yes)
 			)
 		)
-		(symbol "K104K10X7RF5UH5_0_1"
+		(symbol "AMC1351DWVR_0_1"
 			(polyline
 				(pts
-					(xy 2.54 0) (xy 3.4798 0)
+					(xy -6.36 5.08) (xy -6.36 -12.7)
 				)
 				(stroke
-					(width 0.2032)
+					(width 0.127)
 					(type default)
 				)
 				(fill
@@ -95,10 +95,10 @@
 			)
 			(polyline
 				(pts
-					(xy 3.4798 -1.905) (xy 3.4798 1.905)
+					(xy -6.36 -12.7) (xy 7.61 -12.7)
 				)
 				(stroke
-					(width 0.2032)
+					(width 0.127)
 					(type default)
 				)
 				(fill
@@ -107,10 +107,10 @@
 			)
 			(polyline
 				(pts
-					(xy 4.1148 0) (xy 5.08 0)
+					(xy 7.61 5.08) (xy -6.36 5.08)
 				)
 				(stroke
-					(width 0.2032)
+					(width 0.127)
 					(type default)
 				)
 				(fill
@@ -119,20 +119,22 @@
 			)
 			(polyline
 				(pts
-					(xy 4.1148 -1.905) (xy 4.1148 1.905)
+					(xy 7.61 -12.7) (xy 7.61 5.08)
 				)
 				(stroke
-					(width 0.2032)
+					(width 0.127)
 					(type default)
 				)
 				(fill
 					(type none)
 				)
 			)
-			(pin unspecified line
-				(at 0 0 0)
-				(length 2.54)
-				(name ""
+		)
+		(symbol "AMC1351DWVR_1_1"
+			(pin power_in line
+				(at -8.89 3.81 0)
+				(length 2.51)
+				(name "VDD1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -145,118 +147,12 @@
 							(size 1.27 1.27)
 						)
 					)
-				)
-			)
-			(pin unspecified line
-				(at 7.62 0 180)
-				(length 2.54)
-				(name ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-		)
-		(embedded_fonts no)
-	)
-	(symbol "TCAN3404DRQ1"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Reference" "U"
-			(at 0 7.874 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ki_locked" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(symbol "TCAN3404DRQ1_1_1"
-			(rectangle
-				(start -6.35 6.35)
-				(end 6.35 -6.35)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
 				)
 			)
 			(pin input line
-				(at -8.89 3.81 0)
-				(length 2.54)
-				(name "TXD"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at -8.89 1.27 0)
-				(length 2.54)
-				(name "GND"
+				(at -8.89 -1.27 0)
+				(length 2.51)
+				(name "IN"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -271,10 +167,10 @@
 					)
 				)
 			)
-			(pin power_in line
-				(at -8.89 -1.27 0)
-				(length 2.54)
-				(name "VCC"
+			(pin power_out line
+				(at -8.89 -6.35 0)
+				(length 2.51)
+				(name "GND1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -289,10 +185,10 @@
 					)
 				)
 			)
-			(pin input line
-				(at -8.89 -3.81 0)
-				(length 2.54)
-				(name "RXD"
+			(pin power_out line
+				(at -8.89 -11.43 0)
+				(length 2.51)
+				(name "GND1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -307,10 +203,10 @@
 					)
 				)
 			)
-			(pin input line
-				(at 8.89 3.81 180)
-				(length 2.54)
-				(name "STB"
+			(pin power_in line
+				(at 10.16 3.81 180)
+				(length 2.51)
+				(name "VDD2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -326,9 +222,9 @@
 				)
 			)
 			(pin output line
-				(at 8.89 1.27 180)
-				(length 2.54)
-				(name "CANH"
+				(at 10.16 -1.27 180)
+				(length 2.51)
+				(name "OUTP"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -344,9 +240,9 @@
 				)
 			)
 			(pin output line
-				(at 8.89 -1.27 180)
-				(length 2.54)
-				(name "CANL"
+				(at 10.16 -6.35 180)
+				(length 2.51)
+				(name "OUTN"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -361,10 +257,10 @@
 					)
 				)
 			)
-			(pin input line
-				(at 8.89 -3.81 180)
-				(length 2.54)
-				(name "SHDN"
+			(pin power_out line
+				(at 10.16 -11.43 180)
+				(length 2.51)
+				(name "GND2"
 					(effects
 						(font
 							(size 1.27 1.27)

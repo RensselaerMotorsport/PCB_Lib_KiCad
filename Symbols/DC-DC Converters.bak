@@ -27,7 +27,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Footprint" "DC-DC Converters:R-78E5.0-0.5"
+		(property "Footprint" "R-78E5.0-0.5:CONV_R-78E5.0-0.5"
 			(at 0 -17.018 0)
 			(effects
 				(font

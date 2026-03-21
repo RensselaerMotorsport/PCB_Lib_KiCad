@@ -60,8 +60,8 @@
 		)
 		(symbol "TLV9002QDKRQ1_0_1"
 			(pin power_in line
-				(at 0.635 6.35 270)
-				(length 3.302)
+				(at 1.27 6.35 270)
+				(length 3.683)
 				(name "~"
 					(effects
 						(font
@@ -78,8 +78,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0.635 -6.35 90)
-				(length 3.302)
+				(at 1.27 -6.35 90)
+				(length 3.683)
 				(name "~"
 					(effects
 						(font

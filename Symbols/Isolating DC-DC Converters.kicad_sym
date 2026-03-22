@@ -25,7 +25,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Isolating Amplifiers:SOIC8_DWV_TEX"
+		(property "Footprint" "Isolating DC-DC Converters:SIP4_NMV1S0_MUR"
 			(at 0 -5.588 0)
 			(effects
 				(font

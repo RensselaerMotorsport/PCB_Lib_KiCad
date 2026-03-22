@@ -25,7 +25,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SIP4_NMV1S0_MUR"
+		(property "Footprint" "Isolating Amplifiers:SOIC8_DWV_TEX"
 			(at 0 -5.588 0)
 			(effects
 				(font
@@ -52,14 +52,6 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "ki_locked" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(property "ki_keywords" "NMV1S0505SC"

@@ -605,21 +605,10 @@
 		(uuid "e66cebce-d94e-4445-a197-c140a6a62275")
 	)
 	(fp_text user "*"
-		(at -2.47015 -2.5498 0)
+		(at -1 -0.75 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "47ebb56c-2048-433a-a0f5-d8eaf2012180")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(fp_text user "*"
-		(at -2.47015 -2.5498 0)
-		(layer "F.SilkS")
-		(uuid "6224f930-0a07-4ac3-ab5e-eeea7fe546dc")
 		(effects
 			(font
 				(size 1 1)
@@ -711,4 +700,15 @@
 		(uuid "209164ac-a1e7-4b8d-a72b-5887a379278c")
 	)
 	(embedded_fonts no)
+	(model "C:/Users/blake/Documents/GitHub/PCB_Lib_KiCad/3D Models/DGK0008A.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

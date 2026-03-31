@@ -104,8 +104,8 @@
 		(uuid "6da60a20-a684-4ea5-8c40-74a3a736b669")
 	)
 	(fp_circle
-		(center -2.7686 1.2446)
-		(end -2.6416 1.2446)
+		(center -1.9 1.3)
+		(end -1.773 1.3)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -436,4 +436,15 @@
 		(uuid "818649e9-95b5-462e-a8b3-a025e965701d")
 	)
 	(embedded_fonts no)
+	(model "C:/Users/blake/Documents/GitHub/PCB_Lib_KiCad/3D Models/SOT23_DIO.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

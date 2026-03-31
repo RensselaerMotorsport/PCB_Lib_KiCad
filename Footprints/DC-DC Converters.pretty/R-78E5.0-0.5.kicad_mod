@@ -220,7 +220,7 @@
 		(uuid "852cf54f-bb46-46a0-b27a-83a1beb68a32")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/hoppeb/Documents/GitHub/BatteryModeling/Precharge Circuit/Parts/12-5V Converter/R-78E5.0-0.5.step"
+	(model "C:/Users/blake/Documents/GitHub/PCB_Lib_KiCad/3D Models/R-78E5.0-0.5.step"
 		(offset
 			(xyz 0 0 0.5)
 		)

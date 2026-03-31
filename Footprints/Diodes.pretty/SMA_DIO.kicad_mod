@@ -654,4 +654,15 @@
 		)
 	)
 	(embedded_fonts no)
+	(model "C:/Users/blake/Documents/GitHub/PCB_Lib_KiCad/3D Models/SMA_DIO.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

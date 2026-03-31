@@ -585,21 +585,9 @@
 		(uuid "de2e4c6a-dd03-4364-99d1-7bccc6c2d9fb")
 	)
 	(fp_text user "*"
-		(at -5.6388 -3.6068 0)
+		(at -3.25 -2 0)
 		(layer "F.SilkS")
 		(uuid "3f2fcc70-9545-489c-8a5d-8fc891e9f7f9")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(fp_text user "*"
-		(at -5.6388 -3.6068 0)
-		(unlocked yes)
-		(layer "F.SilkS")
-		(uuid "db1c926c-c318-423b-aac6-44a3bf787630")
 		(effects
 			(font
 				(size 1 1)
@@ -691,7 +679,7 @@
 		(uuid "a627ac61-a353-4ae4-a6c6-85fc2c76957b")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/hoppeb/Documents/GitHub/BatteryModeling/Precharge Circuit/Parts/AMC 1351/DWV0008A.stp"
+	(model "C:/Users/blake/Documents/GitHub/PCB_Lib_KiCad/3D Models/DWV0008A.stp"
 		(offset
 			(xyz 0 0 1.75)
 		)

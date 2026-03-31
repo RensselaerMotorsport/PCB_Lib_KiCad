@@ -249,15 +249,15 @@
 		(uuid "e4e6d4a0-112d-409b-9fcb-cf244fb6032c")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/hoppeb/Documents/GitHub/BatteryModeling/Precharge Circuit/Parts/MolexMicrofit/436500228.stp"
+	(model "C:/Users/blake/Documents/GitHub/PCB_Lib_KiCad/3D Models/436500228.stp"
 		(offset
-			(xyz 0 -1.5 10)
+			(xyz 0 -1.75 10)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 90 0 0)
+			(xyz 90 -0 -0)
 		)
 	)
 )

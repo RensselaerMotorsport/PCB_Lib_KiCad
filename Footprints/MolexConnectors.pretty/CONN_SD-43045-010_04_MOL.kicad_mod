@@ -285,7 +285,7 @@
 		(uuid "6dc47e6b-dd17-4a46-818c-ba6577f9dff5")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/hoppeb/Documents/GitHub/BatteryModeling/Precharge Circuit/Parts/MolexMicrofit/430450428.stp"
+	(model "C:/Users/blake/Documents/GitHub/PCB_Lib_KiCad/3D Models/430450428.stp"
 		(offset
 			(xyz -1.5 1.5 5)
 		)

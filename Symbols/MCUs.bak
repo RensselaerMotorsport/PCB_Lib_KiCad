@@ -25,7 +25,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_arduino-library:Arduino_Nano_33_IoT_Socket"
+		(property "Footprint" "MCUs:Arduino_Nano_33_IoT_Socket"
 			(at 0 -34.29 0)
 			(effects
 				(font

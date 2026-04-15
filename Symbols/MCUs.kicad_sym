@@ -496,7 +496,7 @@
 					)
 				)
 			)
-			(pin no_connect non_logic
+			(pin power_in non_logic
 				(at -25.4 -15.24 0)
 				(length 7.62)
 				(name "5V"
